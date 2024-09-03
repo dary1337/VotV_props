@@ -149,7 +149,7 @@ thiccfus
 Dr. Kels plush  
 `prop_keldoll_c`
 
-lambert plush
+lambert plush  
 `prop_lambert_c` shows ur hps
 
 # funny guns
@@ -197,13 +197,13 @@ physgun
 `prop_physgun_s_c`  
 `prop_physgun_soft_c` will become a regular gravity gun in a minute
 
-disintegrator lasers
+disintegrator lasers  
 `prop_lasertest_c`  
 `prop_lasertest_lightsaber_c` safest one  
 `prop_lasertest_superLaser_c`  
 `prop_lasertest_superLaser_safe_c`
 
-hand radar
+hand radar  
 `prop_handradar_c`
 
 shoots with sound  
@@ -320,7 +320,7 @@ model changer
 `prop_baskethoop_c`  
 `prop_batteryCharger_c`  
 `prop_batts_c`  
-`prop_batts_acc_c`
+`prop_batts_acc_c`  
 `prop_bbq_c`  
 `prop_beacon_c`  
 `prop_beerBottle_c`

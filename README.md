@@ -60,7 +60,7 @@ Relaunch the game and try again
 
 # Links:
 
-## [Full props list](https://github.com/dary1337/VotV_props/blob/main/raw_props_list.txt)
+## [Full props list](https://github.com/dary1337/VotV_props/blob/main/raw_props_list.txt) ([Blame version](https://github.com/dary1337/VotV_props/blame/main/raw_props_list.txt))
 
 ## [Commands list](https://github.com/dary1337/VotV_props/blob/main/Commands.md)
 
@@ -579,15 +579,15 @@ model changer
 
 # Xmas stuff
 
-`prop_xmasgift_c`
-`prop_xmasgift_pine_c`
-`prop_xmaslights_c`
-`prop_xmaslights_nolight_c`
-`prop_xmastree_c`
+`prop_xmasgift_c`  
+`prop_xmasgift_pine_c`  
+`prop_xmaslights_c`  
+`prop_xmaslights_nolight_c`  
+`prop_xmastree_c`  
 
-`prop_cwreath_2candles_c`
-`prop_cwreath_3candles_c`
-`prop_cwreath_full_c`
+`prop_cwreath_2candles_c`  
+`prop_cwreath_3candles_c`  
+`prop_cwreath_full_c`  
 
 
 

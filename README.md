@@ -512,11 +512,11 @@ model changer
 
 # dupe
 
-`prop_pointSack_c`
-`prop_pointSack_l_c`
-`prop_pointSack_m_c`
-`prop_pointSack_s_c`
-`prop_pointSack_xs_c`
+`prop_pointSack_c`  
+`prop_pointSack_l_c`  
+`prop_pointSack_m_c`  
+`prop_pointSack_s_c`  
+`prop_pointSack_xs_c`  
 
 ### blueprints
 

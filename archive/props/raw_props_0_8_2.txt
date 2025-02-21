@@ -38,8 +38,6 @@ prop_backpack_c
 prop_bakingtray_c
 prop_balloon_c
 prop_balloonPack_c
-prop_balloon_b_c
-prop_balloon_h_c
 prop_bananaHusk_c
 prop_baskethoop_c
 prop_batteryCharger_c
@@ -151,7 +149,6 @@ prop_container_bedsidetable_c
 prop_container_bin2_c
 prop_container_brickstack_c
 prop_container_cardboardBox_c
-prop_container_cardboardBox2_c
 prop_container_cardboardBox_2x2x2_c
 prop_container_cardboardBox_4x2x2_c
 prop_container_cardboardBox_4x4x2_c
@@ -235,7 +232,6 @@ prop_donut_c
 prop_doughball_c
 prop_drive_c
 prop_driveRack_c
-prop_drive_ae_c
 prop_drive_debug0_c
 prop_drive_debug1_c
 prop_drive_debug2_c
@@ -262,7 +258,6 @@ prop_equipment_hazmat_c
 prop_equipment_jetpack_c
 prop_equipment_krampushat_c
 prop_equipment_limbprotection_c
-prop_equipment_maid_c
 prop_equipment_metalDetec_c
 prop_equipment_mittens_c
 prop_equipment_nightGlasses_c
@@ -360,7 +355,6 @@ prop_food_cake_c
 prop_food_cheese_c
 prop_food_cheese_c_c
 prop_food_cheese_s_c
-prop_food_cheese_w_c
 prop_food_chnugg_c
 prop_food_choco_c
 prop_food_coffeeCup_c
@@ -484,7 +478,6 @@ prop_heater_c
 prop_hexpillar_c
 prop_holeDeviceCapsule_c
 prop_hook_c
-prop_hook_erie_c
 prop_hook_half_c
 prop_hose_c
 prop_hose_grab_c
@@ -735,7 +728,6 @@ prop_rune_3_c
 prop_rune_4_c
 prop_safe_c
 prop_safeDoor_c
-prop_safe_maid_c
 prop_saltLamp_c
 prop_saltrocket_c
 prop_saw_c
@@ -798,7 +790,6 @@ prop_soda_wug_c
 prop_soda_xeta_c
 prop_sonicGun_c
 prop_soos_c
-prop_soos_norad_c
 prop_spatula_c
 prop_speen_c
 prop_speen_Child_c
@@ -816,7 +807,6 @@ prop_sskull_c
 prop_stick_c
 prop_stickers_c
 prop_stickybomb_c
-prop_stump_c
 prop_sugar_c
 prop_swatter_c
 prop_swinger_c
@@ -826,7 +816,6 @@ prop_teleportChamber_c
 prop_thermometer_c
 prop_thiccfus_c
 prop_timeclock_c
-prop_tkey_c
 prop_toiletPaperRoll_c
 prop_toolbox_c
 prop_torch_c
@@ -834,7 +823,6 @@ prop_torchHolder_c
 prop_trampoline_c
 prop_treasureChest_c
 prop_treasureKey_c
-prop_tutSec_c
 prop_tv_c
 prop_tv2_c
 prop_tv2_erie_c
@@ -867,8 +855,6 @@ prop_varg_c
 prop_vending_c
 prop_vending_soda_c
 prop_vent_c
-prop_ventStatic_c
-prop_ventStatic_scriptBreak_c
 prop_wAlien_c
 prop_wAlien1_c
 prop_wAlien2_c
@@ -880,11 +866,6 @@ prop_wallbuilder_Child_c
 prop_wallclock_c
 prop_wallfixer_c
 prop_wallfixer_Child_c
-prop_wallsign_c
-prop_wallsign2_c
-prop_wallsign3_c
-prop_wallsign4_c
-prop_wallsign5_c
 prop_waspnest_c
 prop_waspnest_bee_c
 prop_waterCan_c

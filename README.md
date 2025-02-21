@@ -1,8 +1,10 @@
-# Voices of the void 0.8.2 props
+# Voices of the void 0.8.2b props and commands
 
 # DISCLAIMER
 
-Yes it is
+This repository contains content that may be missing from the regular game or still be in development. It's not recommended to share it on official VotV forums or Discord servers.  
+  
+Don't forget to support the developer!
 
 # THIS REPOSITORY HAS SPOILERS SCROLL DOWN AT OWN YOUR RISK
 
@@ -43,7 +45,7 @@ if u still there, kk
 -   Launch VotV
 -   Wait for the menu buttons
 -   Launch the UUU Unlocker
--   Inject the DLL.
+-   Inject DLL.
 -   Once it's done, you’ll see a message: `Console is activated. Press ~ to open the console`
 -   Load the save
 -   Open the console and use command `summon`. For example: `summon prop_physgun_c`
@@ -56,10 +58,38 @@ Yes
 
 Relaunch the game and try again
 
+# Links:
 
-# [Full list](https://github.com/dary1337/VotV_props/blob/main/raw_props_list.txt)
+## [Full props list](https://github.com/dary1337/VotV_props/blob/main/raw_props_list.txt)
 
-#  New props from my latest update (0.8 => 0.8.2):
+## [Commands list](https://github.com/dary1337/VotV_props/blob/main/Commands.md)
+
+# Archive
+
+## [Props by versions](https://github.com/dary1337/VotV_props/tree/main/archive/props)
+
+#  New props from my latest update (0.8.2 => 0.8.2b):
+`prop_balloon_b_c`  
+`prop_balloon_h_c`  
+`prop_container_cardboardBox2_c`  
+`prop_drive_ae_c`  
+`prop_equipment_maid_c`  
+`prop_food_cheese_w_c`  
+`prop_hook_erie_c`  
+`prop_safe_maid_c`  
+`prop_soos_norad_c`  
+`prop_stump_c`  
+`prop_tkey_c`  
+`prop_tutSec_c`  
+`prop_ventStatic_c`  
+`prop_ventStatic_scriptBreak_c`  
+`prop_wallsign2_c`  
+`prop_wallsign3_c`  
+`prop_wallsign4_c`  
+`prop_wallsign5_c`  
+`prop_wallsign_c`  
+
+# 0.8 => 0.8.2 
 `prop_alienThing_c`  
 `prop_axe_c`  
 `prop_bakingtray_c`  
@@ -253,6 +283,7 @@ nuclear ones:
 `prop_arirContainer_c`  
 `prop_arirContainer_in_c`  
 `prop_arirContainer_v2_c`  
+`prop_arirDisint_c`  
 `prop_arirEgg_c`  
 `prop_arirFoodbox_c`  
 `prop_arirGamerYogur_c`  
@@ -270,10 +301,17 @@ nuclear ones:
 `prop_unwiseArir_4_c`  
 `prop_unwiseArir_5_c`  
 `prop_unwiseArir_6_c`  
- 
-### very fast thing
 
-`prop_broom_Child_c`
+### alien thing
+`prop_alienThing_c`  
+
+### _Child
+
+`prop_broom_Child_c`  
+`prop_poo_Child_c`  
+`prop_tv_Child_c`  
+`prop_wallbuilder_Child_c`  
+`prop_wallfixer_Child_c`  
 
 ### usual things
 
@@ -289,8 +327,38 @@ nuclear ones:
 
 `prop_duc_c`  
 `prop_photo_c`  
+`prop_pigeon_c`  
 `prop_pillow_c`  
 `prop_shake_c`
+
+### equipment
+
+`prop_equipment_bikehelmet_c`  
+`prop_equipment_bodyprotection_c`  
+`prop_equipment_charhat_c`  
+`prop_equipment_compass_c`  
+`prop_equipment_emf_c`  
+`prop_equipment_fallboots_c`  
+`prop_equipment_fannypack_c`  
+`prop_equipment_firesuit_c`  
+`prop_equipment_flashlight_c`  
+`prop_equipment_flashlight_c_c`  
+`prop_equipment_geiger_c`  
+`prop_equipment_glasses_c`  
+`prop_equipment_hazmat_c`  
+`prop_equipment_jetpack_c`  
+`prop_equipment_krampushat_c`  
+`prop_equipment_limbprotection_c`  
+`prop_equipment_maid_c` - recommended one  
+`prop_equipment_metalDetec_c`  
+`prop_equipment_mittens_c`  
+`prop_equipment_nightGlasses_c`  
+`prop_equipment_scuba_c`  
+`prop_equipment_tinhat_c`  
+`prop_equipment_watches_c`  
+`prop_equipment_weldMask_c`  
+`prop_equipment_witchhat_c`  
+`prop_equipment_woolboots_c`  
 
 ### cats and plushes
 
@@ -319,7 +387,7 @@ Dr. Kels plush
 `prop_keldoll_c`
 
 lambert plush  
-`prop_lambert_c` shows ur hps
+`prop_lambert_c` shows your HP
 
 # funny guns
 
@@ -336,26 +404,34 @@ arirals disintegrator
 `prop_flamethrower_c` this thing is hot
 
 My favorite:  
-`prop_funGun_propgun_c` RMB cut and copy prop, LMB to shoot with this prop
+`prop_funGun_propgun_c` RMB cut and copy prop, LMB to shoot  with this prop  
 `prop_garbageGun_c`
 
 other:  
+
 `prop_funGun_c`  
 `prop_funGun_auto_c`  
 `prop_funGun_autoshotgun_c`  
+`prop_funGun_crossbow_c`  
 `prop_funGun_doohickey_c`  
+`prop_funGun_egg_c`  
+`prop_funGun_fireballgun_c`  
 `prop_funGun_flaregun_c`  
 `prop_funGun_igetis_c`  
 `prop_funGun_jumpershotgun_c`  
 `prop_funGun_kavotia_c`  
 `prop_funGun_kill_c`  
 `prop_funGun_minigun_c`  
-`prop_funGun_pistol_c`
+`prop_funGun_nerfgun_c`  
+`prop_funGun_pistol_c`  
 `prop_funGun_rpg_c`  
 `prop_funGun_rpg_rapid_c`  
 `prop_funGun_shotgun_c`  
 `prop_funGun_slugpistol_c`  
-`prop_funGun_stickyLauncher_c`
+`prop_funGun_stickyLauncher_c`  
+`prop_fungunAmmo_c`  
+`prop_fungunAmmo_crossbow_c`  
+`prop_fungunAmmo_nerf_c`  
 
 # tools
 
@@ -391,7 +467,7 @@ model changer
 # can be used for `      `
 
 `prop_speen_c`  
-`prop_speen_Child_c` Dog model
+`prop_speen_Child_c` woof woof
 
 `prop_yeeterDeleter_c` PassChange model. RMB to `        `
 
@@ -413,11 +489,19 @@ model changer
 
 `prop_gascan_funny_c` really funny
 
-### glowstick with center of gravity direction
+# auuwoaa
 
 `prop_auuwoaa_c`
 
-### if u think its lego, even not close bruh.
+# too many mushrooms
+
+`prop_marinade_c`
+
+# peeew BOOM
+
+`prop_moabRocket_c`
+
+# if u think its lego, not even close bruh.
 
 `prop_bego_c`  
 `prop_bego_B_c`  
@@ -426,13 +510,25 @@ model changer
 `prop_bego_Y_c`  
 `prop_bego_spikeball_c`
 
+# dupe
+
+`prop_pointSack_c`
+`prop_pointSack_l_c`
+`prop_pointSack_m_c`
+`prop_pointSack_s_c`
+`prop_pointSack_xs_c`
+
 ### blueprints
 
-`prop_blueprint_kerfurOmega_c`  
-`prop_blueprint_rad_c`
-
 `prop_blueprint_c`  
-`prop_blueprint_test_1_c`
+`prop_blueprint_beebox_c`  
+`prop_blueprint_emf_c`  
+`prop_blueprint_geiger_c`  
+`prop_blueprint_kerfurOmega_c`  
+`prop_blueprint_metaldetec_c`  
+`prop_blueprint_rad_c`  
+`prop_blueprint_test_1_c`  
+`prop_blueprint_xbow_c`  
 
 # Real vaccine
 
@@ -468,6 +564,33 @@ model changer
 `prop_kerfuroAcc_glasses_c`  
 `prop_kerfuroAcc_jacket_c`
 
+# Tvs
+
+`prop_tv_c`  
+`prop_tv2_c`  
+`prop_tv2_erie_c` - cool physics  
+`prop_tv2_floor_c`  
+`prop_tv2_floor1_c`  
+`prop_tv2_kerfur_c`  
+`prop_tvSpawner_c`  
+`prop_tv_Child_c`  
+`prop_tv_plasma_c`  
+`prop_tvremote_c`  
+
+# Xmas stuff
+
+`prop_xmasgift_c`
+`prop_xmasgift_pine_c`
+`prop_xmaslights_c`
+`prop_xmaslights_nolight_c`
+`prop_xmastree_c`
+
+`prop_cwreath_2candles_c`
+`prop_cwreath_3candles_c`
+`prop_cwreath_full_c`
+
+
+
 # Other things
 
 `prop_3cats_c` only one 😭  
@@ -488,17 +611,8 @@ anime episode beach filler
 
 `prop_food_superdeathShroom_c` a little bit deadly  
 
-`prop_garbBagFold_c`  
-`prop_garbBagRoll_c`  
-`prop_garbageBag_c`  
-`prop_garbageBin_c`  
 `prop_garbageClump_c`  
 `prop_garbageClump_erie_c` it will rise again
-
-`prop_gasBottle_c`  
-`prop_gascan_c`  
-`prop_gdetec_c`  
-`prop_generatorP_c`
 
 glowsticks  
 `prop_glowstick_c`  
@@ -521,7 +635,13 @@ glowsticks
 
 `prop_sponge_mega_c` arirals trolling stupid humans  
 
+`prop_waspnest_bee_c` - they took my base😭  
+
 `prop_wtotem_2_c` `        `?  
 
 
 # Other props can be found [here](https://github.com/dary1337/VotV_props/blob/main/raw_props_list.txt)
+
+# If you're using an older version of VotV:
+
+## [0.8.2](https://github.com/dary1337/VotV_props/tree/39a7241afd7dd84d1692a2355ef7940496e204c9)

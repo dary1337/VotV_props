@@ -65,6 +65,7 @@ prop_bloodGib_deer_leg_B_c
 prop_bloodGib_deer_leg_F_c
 prop_bloodGib_deer_leg_horn_c
 prop_bloodGib_leg_c
+prop_bloodPipe_c
 prop_blueprint_c
 prop_blueprint_beebox_c
 prop_blueprint_emf_c
@@ -102,6 +103,7 @@ prop_camera_bad_c
 prop_camera_cursed_c
 prop_camera_good_c
 prop_camera_s_c
+prop_camera_ultra_c
 prop_cancermeds_c
 prop_candle_c
 prop_cannedFood_c
@@ -422,6 +424,8 @@ prop_funGun_rpg_rapid_c
 prop_funGun_shotgun_c
 prop_funGun_slugpistol_c
 prop_funGun_stickyLauncher_c
+prop_funGun_turboshit_c
+prop_funGun_turboshit1_c
 prop_fungunAmmo_c
 prop_fungunAmmo_crossbow_c
 prop_fungunAmmo_nerf_c
@@ -507,6 +511,7 @@ prop_kerfurOmega_3_c
 prop_kerfurOmega_ab_c
 prop_kerfurOmega_alien_c
 prop_kerfurOmega_arg_c
+prop_kerfurOmega_bonerman_c
 prop_kerfurOmega_col_c
 prop_kerfurOmega_col_gamer_c
 prop_kerfurOmega_erie_c
@@ -519,6 +524,7 @@ prop_kerfurOmega_keith_c
 prop_kerfurOmega_keljoy_c
 prop_kerfurOmega_mannequin_c
 prop_kerfurOmega_moniq_c
+prop_kerfurOmega_varg_c
 prop_kerfurWheel_c
 prop_kerfuroAcc_c
 prop_kerfuroAcc_badge_c
@@ -549,6 +555,7 @@ prop_lifeCrystal_c
 prop_lightIntWall1_c
 prop_lightIntWall2_c
 prop_lighter_c
+prop_lithium_c
 prop_llama_c
 prop_logcut_c
 prop_logcut_half_c
@@ -560,6 +567,7 @@ prop_marinade_c
 prop_mdetect_c
 prop_meatball_c
 prop_medkit_c
+prop_medkit_bandage_c
 prop_medkit_m_c
 prop_medkit_s_c
 prop_medkit_xs_c
@@ -798,7 +806,6 @@ prop_soda_wug_c
 prop_soda_xeta_c
 prop_sonicGun_c
 prop_soos_c
-prop_soos_norad_c
 prop_spatula_c
 prop_speen_c
 prop_speen_Child_c
@@ -826,7 +833,6 @@ prop_teleportChamber_c
 prop_thermometer_c
 prop_thiccfus_c
 prop_timeclock_c
-prop_tkey_c
 prop_toiletPaperRoll_c
 prop_toolbox_c
 prop_torch_c
@@ -834,7 +840,7 @@ prop_torchHolder_c
 prop_trampoline_c
 prop_treasureChest_c
 prop_treasureKey_c
-prop_tutSec_c
+prop_tunnelRock_c
 prop_tv_c
 prop_tv2_c
 prop_tv2_erie_c
@@ -863,12 +869,11 @@ prop_unwiseArir_6_c
 prop_usb_c
 prop_usb_super_c
 prop_vaccine_c
+prop_vacuum_c
 prop_varg_c
 prop_vending_c
 prop_vending_soda_c
 prop_vent_c
-prop_ventStatic_c
-prop_ventStatic_scriptBreak_c
 prop_wAlien_c
 prop_wAlien1_c
 prop_wAlien2_c
@@ -895,6 +900,7 @@ prop_welder_c
 prop_wendSkull_c
 prop_wgegg_c
 prop_winch_c
+prop_winder_c
 prop_wing_c
 prop_wire_c
 prop_wireComponent_c

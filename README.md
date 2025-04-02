@@ -69,31 +69,31 @@ Relaunch the game and try again
 ## [Props by versions](https://github.com/dary1337/VotV_props/tree/main/archive/props)
 
 #  New props from my latest update (0.8.2 => 0.8.2b):
-`prop_balloon_b_c`
-`prop_balloon_h_c`
-`prop_bloodPipe_c`
-`prop_camera_ultra_c`
-`prop_container_cardboardBox2_c`
-`prop_drive_ae_c`
-`prop_equipment_maid_c`
-`prop_food_cheese_w_c`
-`prop_funGun_turboshit1_c`
-`prop_funGun_turboshit_c`
-`prop_hook_erie_c`
-`prop_kerfurOmega_bonerman_c`
-`prop_kerfurOmega_varg_c`
-`prop_lithium_c`
-`prop_medkit_bandage_c`
-`prop_safe_maid_c`
-`prop_stump_c`
-`prop_tunnelRock_c`
-`prop_vacuum_c`
-`prop_wallsign2_c`
-`prop_wallsign3_c`
-`prop_wallsign4_c`
-`prop_wallsign5_c`
-`prop_wallsign_c`
-`prop_winder_c`
+`prop_balloon_b_c`  
+`prop_balloon_h_c`  
+`prop_bloodPipe_c`  
+`prop_camera_ultra_c`  
+`prop_container_cardboardBox2_c`  
+`prop_drive_ae_c`  
+`prop_equipment_maid_c`  
+`prop_food_cheese_w_c`  
+`prop_funGun_turboshit1_c`  
+`prop_funGun_turboshit_c`  
+`prop_hook_erie_c`  
+`prop_kerfurOmega_bonerman_c`  
+`prop_kerfurOmega_varg_c`  
+`prop_lithium_c`  
+`prop_medkit_bandage_c`  
+`prop_safe_maid_c`  
+`prop_stump_c`  
+`prop_tunnelRock_c`  
+`prop_vacuum_c`  
+`prop_wallsign2_c`  
+`prop_wallsign3_c`  
+`prop_wallsign4_c`  
+`prop_wallsign5_c`  
+`prop_wallsign_c`  
+`prop_winder_c`  
 
 # 0.8 => 0.8.2 
 `prop_alienThing_c`  

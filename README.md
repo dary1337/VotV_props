@@ -64,11 +64,11 @@ Relaunch the game and try again
 
 ### [Commands list](https://github.com/dary1337/VotV_props/blob/main/Commands.md)
 
-### [New props from my latest update 0.8.2b => 0.8.2c](https://github.com/dary1337/VotV_props?tab=readme-ov-file#new-props-from-my-latest-update-082b--082c)
-### [0.8.2 => 0.8.2b](https://github.com/dary1337/VotV_props?tab=readme-ov-file#082--082b)
-### [0.8 => 0.8.2](https://github.com/dary1337/VotV_props?tab=readme-ov-file#08--082)
+### [New props from my latest update 0.8.2b => 0.8.2c](https://github.com/dary1337/VotV_props?tab=readme-ov-file#new-props-from-my-latest-update-082b--082c-1)
+### [0.8.2 => 0.8.2b](https://github.com/dary1337/VotV_props?tab=readme-ov-file#082--082b-1)
+### [0.8 => 0.8.2](https://github.com/dary1337/VotV_props?tab=readme-ov-file#08--082-1)
 
-### [Intersting props](https://github.com/dary1337/VotV_props?tab=readme-ov-file#intersting-props)
+### [Intersting props](https://github.com/dary1337/VotV_props?tab=readme-ov-file#intersting-props-1)
 
 # Archive
 

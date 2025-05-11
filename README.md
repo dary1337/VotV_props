@@ -1,4 +1,4 @@
-# Voices of the void 0.8.2b props and commands
+# Voices of the void 0.8.2c props and commands
 
 # DISCLAIMER
 
@@ -58,17 +58,31 @@ Yes
 
 Relaunch the game and try again
 
-# Links:
+# Navigation
 
 ## [Full props list](https://github.com/dary1337/VotV_props/blob/main/raw_props_list.txt) ([Blame version](https://github.com/dary1337/VotV_props/blame/main/raw_props_list.txt))
 
-## [Commands list](https://github.com/dary1337/VotV_props/blob/main/Commands.md)
+### [Commands list](https://github.com/dary1337/VotV_props/blob/main/Commands.md)
+
+### [New props from my latest update 0.8.2b => 0.8.2c](https://github.com/dary1337/VotV_props?tab=readme-ov-file#new-props-from-my-latest-update-082b--082c)
+### [0.8.2 => 0.8.2b](https://github.com/dary1337/VotV_props?tab=readme-ov-file#082--082b)
+### [0.8 => 0.8.2](https://github.com/dary1337/VotV_props?tab=readme-ov-file#08--082)
+
+### [Intersting props](https://github.com/dary1337/VotV_props?tab=readme-ov-file#intersting-props)
 
 # Archive
 
-## [Props by versions](https://github.com/dary1337/VotV_props/tree/main/archive/props)
+### [Props by versions](https://github.com/dary1337/VotV_props/tree/main/archive/props)
 
-#  New props from my latest update (0.8.2 => 0.8.2b):
+#  New props from my latest update (0.8.2b => 0.8.2c)
+`prop_focusTest_c`  
+`prop_food_hotdog_c`  
+`prop_food_snuskLoaf_c`  
+`prop_rollingpin_c`  
+`prop_tvremote_super_c`  
+
+# 0.8.2 => 0.8.2b 
+
 `prop_balloon_b_c`  
 `prop_balloon_h_c`  
 `prop_bloodPipe_c`  
@@ -648,6 +662,9 @@ glowsticks
 
 # Other props can be found [here](https://github.com/dary1337/VotV_props/blob/main/raw_props_list.txt)
 
+###
+
 # If you're using an older version of VotV:
 
-## [0.8.2](https://github.com/dary1337/VotV_props/tree/39a7241afd7dd84d1692a2355ef7940496e204c9)
+- ### [0.8.2](https://github.com/dary1337/VotV_props/tree/39a7241afd7dd84d1692a2355ef7940496e204c9)
+- ### [0.8.2b](https://github.com/dary1337/VotV_props/tree/38f9c9ecb4f210fe0a9806fecb9493c3bed6ac2e)

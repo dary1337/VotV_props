@@ -352,7 +352,6 @@ prop_flaregun_c
 prop_flaregun1_c
 prop_floorlamp_c
 prop_flour_c
-prop_focusTest_c
 prop_food_c
 prop_foodBox_c
 prop_food_banana_c
@@ -371,7 +370,6 @@ prop_food_cookie_c
 prop_food_cookie1_c
 prop_food_croissant_c
 prop_food_funnyshroom_c
-prop_food_hotdog_c
 prop_food_mre_c
 prop_food_mushroom_c
 prop_food_mushroom7_c
@@ -395,7 +393,6 @@ prop_food_root_c
 prop_food_showberry_c
 prop_food_shrimp_c
 prop_food_shrimpburger_c
-prop_food_snuskLoaf_c
 prop_food_soap_c
 prop_food_spng_c
 prop_food_superdeathShroom_c
@@ -718,7 +715,6 @@ prop_ritualKnife_c
 prop_roachRepel_c
 prop_rock_c
 prop_rocket_c
-prop_rollingpin_c
 prop_roomba_c
 prop_roomba_mx_c
 prop_rope_c
@@ -855,7 +851,6 @@ prop_tvSpawner_c
 prop_tv_Child_c
 prop_tv_plasma_c
 prop_tvremote_c
-prop_tvremote_super_c
 prop_ubaitBox_c
 prop_ubaitBox_1_c
 prop_ubaitBox_2_c

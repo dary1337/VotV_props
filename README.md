@@ -1,4 +1,4 @@
-# Voices of the void 0.8.2c props and commands
+# Voices of the void 0.9.0d props and commands
 
 # DISCLAIMER
 
@@ -64,7 +64,8 @@ Relaunch the game and try again
 
 ### [Commands list](https://github.com/dary1337/VotV_props/blob/main/Commands.md)
 
-### [New props from my latest update 0.8.2b => 0.8.2c](https://github.com/dary1337/VotV_props?tab=readme-ov-file#new-props-from-my-latest-update-082b--082c-1)
+### [New props from my latest update 0.8.2c => 0.9.0d](https://github.com/dary1337/VotV_props?tab=readme-ov-file#new-props-from-my-latest-update-082c--090d-1)
+### [0.8.2b => 0.8.2c](https://github.com/dary1337/VotV_props?tab=readme-ov-file#082b--082c-1)
 ### [0.8.2 => 0.8.2b](https://github.com/dary1337/VotV_props?tab=readme-ov-file#082--082b-1)
 ### [0.8 => 0.8.2](https://github.com/dary1337/VotV_props?tab=readme-ov-file#08--082-1)
 
@@ -74,7 +75,256 @@ Relaunch the game and try again
 
 ### [Props by versions](https://github.com/dary1337/VotV_props/tree/main/archive/props)
 
-#  New props from my latest update (0.8.2b => 0.8.2c)
+#  New props from my latest update (0.8.2c => 0.9.0d)
+`prop_aimodule_c`  
+`prop_asologoPiece_c`  
+`prop_atvUpgrade_aircontrol_c`  
+`prop_atvUpgrade_alternator_c`  
+`prop_atvUpgrade_belt_c`  
+`prop_atvUpgrade_bigLights_c`  
+`prop_atvUpgrade_bumper_c`  
+`prop_atvUpgrade_c`  
+`prop_atvUpgrade_container_c`  
+`prop_atvUpgrade_floaties_c`  
+`prop_atvUpgrade_fly_c`  
+`prop_atvUpgrade_guns_c`  
+`prop_atvUpgrade_map_c`  
+`prop_atvUpgrade_overchargedEngine_c`  
+`prop_atvUpgrade_radio_c`  
+`prop_atvUpgrade_solar_c`  
+`prop_atvWheel_c`  
+`prop_atvcarbattery_c`  
+`prop_bandageBag_c`  
+`prop_barnshelf_c`  
+`prop_basementSecretWall_c`  
+`prop_baseroomsign_c`  
+`prop_baseroomsign_serv_c`  
+`prop_berd_c`  
+`prop_bigsoap_c`  
+`prop_boltcutters_c`  
+`prop_burgerHallucinate_c`  
+`prop_carBatteryCharger_c`  
+`prop_carrot_c`  
+`prop_cementBag_c`  
+`prop_chalkboard_c`  
+`prop_cinderblock_c`  
+`prop_clipboard_busterSpawner_c`  
+`prop_clipboard_c`  
+`prop_clipboard_paperSheet_c`  
+`prop_clipboard_paper_c`  
+`prop_clipboard_paper_enacros_c`  
+`prop_clipboard_paper_enasus_c`  
+`prop_clipboard_paper_fp_c`  
+`prop_clipboard_paper_u_c`  
+`prop_clipboard_uneditable_c`  
+`prop_coffeevending_c`  
+`prop_computerBackPanel_BL_c`  
+`prop_computerBackPanel_BR_c`  
+`prop_computerBackPanel_TL_c`  
+`prop_computerBackPanel_TR_c`  
+`prop_computerBackPanel_c`  
+`prop_concreteBucket_c`  
+`prop_container_atv_c`  
+`prop_container_desk_c`  
+`prop_container_drone_c`  
+`prop_container_giftbox_c`  
+`prop_container_oldBarrel_c`  
+`prop_container_oldBarrel_notap_c`  
+`prop_container_oldBarrel_vert_c`  
+`prop_container_oldCrate_S_c`  
+`prop_container_oldCrate_c`  
+`prop_container_singularity_c`  
+`prop_cookingFood_shrimp_rad_c`  
+`prop_copperwire_c`  
+`prop_crematorFireball_c`  
+`prop_cubicle_c`  
+`prop_curtains_s_c`  
+`prop_dreamplush_c`  
+`prop_dronesack_c`  
+`prop_ducttape_c`  
+`prop_effect_crt_c`  
+`prop_equipment_brokenWatches_c`  
+`prop_equipment_flashlight_b_c`  
+`prop_equipment_goldMedallion_c`  
+`prop_equipment_pearlBracelet_c`  
+`prop_farmPot_flat_c`  
+`prop_farmPot_small_c`  
+`prop_fishSteak_16_c`  
+`prop_fishSteak_17_c`  
+`prop_fishSteak_18_c`  
+`prop_fishSteak_19_c`  
+`prop_fishSteak_20_c`  
+`prop_fishSteak_21_c`  
+`prop_fishSteak_22_c`  
+`prop_fish_16_c`  
+`prop_fish_17_c`  
+`prop_fish_18_c`  
+`prop_fish_19_c`  
+`prop_fish_20_c`  
+`prop_fish_21_c`  
+`prop_fish_22_c`  
+`prop_flareTextureGlowStick_c`  
+`prop_flareTextureGlowStick_notex_c`  
+`prop_floppyBox_c`  
+`prop_floppyDisc_B_c`  
+`prop_floppyDisc_Bl_c`  
+`prop_floppyDisc_G_c`  
+`prop_floppyDisc_O_c`  
+`prop_floppyDisc_R_c`  
+`prop_floppyDisc_Wh_c`  
+`prop_floppyDisc_Y_c`  
+`prop_floppyDisc_c`  
+`prop_focusTest_c`  
+`prop_food_blueBrainCheese_c`  
+`prop_food_mreInfested_big_c`  
+`prop_food_mreInfested_med_c`  
+`prop_food_mreInfested_small_c`  
+`prop_food_mrePoison_big_c`  
+`prop_food_mrePoison_med_c`  
+`prop_food_mrePoison_small_c`  
+`prop_food_poison_mre_c`  
+`prop_food_shitfishSteak_c`  
+`prop_food_shrimp_rad_c`  
+`prop_funGun_auto_mc_c`  
+`prop_funGun_damaged_c`  
+`prop_funGun_mc_c`  
+`prop_funGun_minigun_mc_c`  
+`prop_funGun_pistol_mc_c`  
+`prop_funGun_shotgun_mc_c`  
+`prop_funGun_soappoopgrenadelauncher_c`  
+`prop_fuse_c`  
+`prop_garbageClump_leaves_c`  
+`prop_garbageClump_wetConcrete_c`  
+`prop_garbageContainer_c`  
+`prop_gascan_big_c`  
+`prop_gascan_big_full_c`  
+`prop_gclock_c`  
+`prop_glowstick_ghost_c`  
+`prop_glowstick_kelj_c`  
+`prop_grenade_poop_c`  
+`prop_grenade_soap_c`  
+`prop_hall_c`  
+`prop_hammertool_c`  
+`prop_handsawtool_c`  
+`prop_kerfurOmega_mynet_c`  
+`prop_kt_chair_c`  
+`prop_lightningRod_c`  
+`prop_medkit_pack_c`  
+`prop_minioven_c`  
+`prop_minitv_c`  
+`prop_monikaPlush_c`  
+`prop_motionLight_c`  
+`prop_nail_long_c`  
+`prop_notebook_busterSpawner_c`  
+`prop_notebook_c`  
+`prop_notebook_paperSheet_c`  
+`prop_notebook_paper_c`  
+`prop_notebook_paper_enacros_c`  
+`prop_notebook_paper_enasus_c`  
+`prop_notebook_paper_fp_c`  
+`prop_notebook_paper_u_c`  
+`prop_notebook_uneditable_c`  
+`prop_officetape_c`  
+`prop_openContainer_fridgeshelf1_c`  
+`prop_openContainer_fridgeshelf2_c`  
+`prop_openContainer_fridgeshelf3_c`  
+`prop_openContainer_wastebasket_c`  
+`prop_papernote_sauce_c`  
+`prop_papernote_wrenchTutCabinet_c`  
+`prop_physModule_autopol_c`  
+`prop_physModule_autosavesig_c`  
+`prop_physModule_autosig_c`  
+`prop_physModule_c`  
+`prop_physModule_coordTriRot_c`  
+`prop_physModule_coordTriVis_c`  
+`prop_physModule_keyboardremote_c`  
+`prop_physModule_lightning_c`  
+`prop_physModule_radarAlarm_c`  
+`prop_physModule_radarColors_c`  
+`prop_physModule_radarRadial_c`  
+`prop_physModule_radarRadius_c`  
+`prop_physModule_radarTracking_c`  
+`prop_physModule_serveralert_c`  
+`prop_physModule_spectrogram_c`  
+`prop_physModule_stormfilter_c`  
+`prop_physModule_tapeCompression_c`  
+`prop_physmoney_c`  
+`prop_physmoney_s_c`  
+`prop_plankLockLocker_c`  
+`prop_portablePc_c`  
+`prop_powertool_c`  
+`prop_quartzShard_c`  
+`prop_rack_c`  
+`prop_radio_atv_c`  
+`prop_rake_c`  
+`prop_rastabanana_c`  
+`prop_reel_big_c`  
+`prop_reel_c`  
+`prop_reel_small_c`  
+`prop_reelbox_c`  
+`prop_samplush_c`  
+`prop_sauce_c`  
+`prop_scissors_c`  
+`prop_seed_c`  
+`prop_serverUpg_2_c`  
+`prop_serverUpg_3_c`  
+`prop_serverUpg_4_c`  
+`prop_serverUpg_c`  
+`prop_signExit_c`  
+`prop_signNoSmoke_c`  
+`prop_signUnauthPers_c`  
+`prop_sitChair2_c`  
+`prop_sitChair3_c`  
+`prop_sitChair4_c`  
+`prop_sitChair5_c`  
+`prop_sitChair6_c`  
+`prop_sitFoldChair_c`  
+`prop_sitGardenChair_c`  
+`prop_sitLoungeChair_c`  
+`prop_sitOfficeChair_c`  
+`prop_sitPlasticChair_c`  
+`prop_sitSturdyWoodChair_c`  
+`prop_sitSwingSeat_c`  
+`prop_sitVillageBench_c`  
+`prop_sitVillageChair_c`  
+`prop_sled_c`  
+`prop_sleepingbag_blue_c`  
+`prop_sleepingbag_brown_c`  
+`prop_sleepingbag_c`  
+`prop_sleepingbag_mattress_c`  
+`prop_sleepingbag_stolas_c`  
+`prop_slitherUnderground_c`  
+`prop_spotlightHead_tripod_c`  
+`prop_stolasherb_c`  
+`prop_swinger_crematorDoor_c`  
+`prop_swinger_transformerDoor_c`  
+`prop_swinger_villageGate_c`  
+`prop_toolgun_c`  
+`prop_transformerUpgrade_c`  
+`prop_uvDirLight_c`  
+`prop_uvlight_c`  
+`prop_vacuum2_c`  
+`prop_vidcamTripod_c`  
+`prop_vidcam_c`  
+`prop_vidcam_high_c`  
+`prop_vidcam_low_c`  
+`prop_vidcam_mid_c`  
+`prop_vidcam_superhigh_c`  
+`prop_vidcam_supershit_c`  
+`prop_villageSign_c`  
+`prop_wallMedkitBox_c`  
+`prop_wallfoam_c`  
+`prop_wbPen_B_c`  
+`prop_wbPen_Bl_c`  
+`prop_wbPen_G_c`  
+`prop_wbPen_R_c`  
+`prop_wbPen_er_c`  
+`prop_weldertool_c`  
+`prop_whiteboard_c`  
+`prop_wireComponent_gripper_c`  
+`prop_wrenchtool_c`  
+
+# 0.8.2b => 0.8.2c
 `prop_focusTest_c`  
 `prop_food_hotdog_c`  
 `prop_food_snuskLoaf_c`  
@@ -668,3 +918,4 @@ glowsticks
 
 - ### [0.8.2](https://github.com/dary1337/VotV_props/tree/39a7241afd7dd84d1692a2355ef7940496e204c9)
 - ### [0.8.2b](https://github.com/dary1337/VotV_props/tree/38f9c9ecb4f210fe0a9806fecb9493c3bed6ac2e)
+- ### [0.8.2c](https://github.com/dary1337/VotV_props/tree/891a29e7b56c70712ea66c268301ed0e80fde8a9)

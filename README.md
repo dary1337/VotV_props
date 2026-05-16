@@ -64,7 +64,7 @@ Relaunch the game and try again
 
 ### [Commands list](https://github.com/dary1337/VotV_props/blob/main/Commands.md)
 
-### [New props from my latest update version (0.9.0d => 0.9.0m)](https://github.com/dary1337/VotV_props?tab=readme-ov-file#new-props-from-my-latest-update-090d--090m-1)
+### [New props from my latest update version (0.9.0d => 0.9.0m)](https://github.com/dary1337/VotV_props?tab=readme-ov-file#new-props-from-my-latest-update-090d--090m)
 ### [0.8.2c => 0.9.0d](https://github.com/dary1337/VotV_props?tab=readme-ov-file#082c--090d-1)
 ### [0.8.2b => 0.8.2c](https://github.com/dary1337/VotV_props?tab=readme-ov-file#082b--082c-1)
 ### [0.8.2 => 0.8.2b](https://github.com/dary1337/VotV_props?tab=readme-ov-file#082--082b-1)

@@ -119,7 +119,6 @@ prop_bucket_c
 prop_bucket_mop_c
 prop_bunkbed_c
 prop_bunkbedSleepable_c
-prop_bunkbed_broken_c
 prop_bunkhouseDOor_c
 prop_buoy_c
 prop_burger_c
@@ -145,7 +144,6 @@ prop_carKeys_c
 prop_carcass_c
 prop_cargolift_c
 prop_carrot_c
-prop_ceilingstarsspawn_c
 prop_cementBag_c
 prop_cf_egg_c
 prop_cfood_breadmold_c
@@ -180,6 +178,7 @@ prop_computerBackPanel_TR_c
 prop_computerpanels_c
 prop_concreteBucket_c
 prop_container_c
+prop_container_atv_c
 prop_container_barrel_c
 prop_container_bedsidetable_c
 prop_container_bin2_c
@@ -196,6 +195,7 @@ prop_container_cardboardBox_8x8x8_c
 prop_container_crate_c
 prop_container_desk_c
 prop_container_drawers_c
+prop_container_drone_c
 prop_container_ffDrawers_c
 prop_container_fileCabs_c
 prop_container_fishman_c
@@ -213,6 +213,7 @@ prop_container_oldbox_c
 prop_container_oldbox_kerfurJoints_c
 prop_container_orderbox_c
 prop_container_pbasket_c
+prop_container_player_c
 prop_container_sbox_c
 prop_container_singularity_c
 prop_container_suitcase_c
@@ -225,7 +226,6 @@ prop_cookietray_c
 prop_cookinator_c
 prop_cookingFood_c
 prop_cookingFood_bread_c
-prop_cookingFood_cookiedough_c
 prop_cookingFood_cookietray_c
 prop_cookingFood_cucumber_c
 prop_cookingFood_doughBurger_c
@@ -283,6 +283,7 @@ prop_doughball_c
 prop_dreamplush_c
 prop_drive_c
 prop_driveRack_c
+prop_drive_ae_c
 prop_drive_debug0_c
 prop_drive_debug1_c
 prop_drive_debug2_c
@@ -293,19 +294,12 @@ prop_duc_c
 prop_ducttape_c
 prop_duende_c
 prop_dumbell_c
-prop_dummy_c
-prop_easteregg_c
-prop_easteregg_bunnyOwn_c
 prop_effect_crt_c
 prop_emptyBottle_c
-prop_emptyFillablePot_c
-prop_emptyFillablePot_small_c
-prop_emptyFillablePot_small_holyfuck_c
 prop_equipment_c
 prop_equipment_bikehelmet_c
 prop_equipment_bodyprotection_c
 prop_equipment_brokenWatches_c
-prop_equipment_bunnyears_c
 prop_equipment_charhat_c
 prop_equipment_compass_c
 prop_equipment_emf_c
@@ -315,12 +309,10 @@ prop_equipment_firesuit_c
 prop_equipment_flashlight_c
 prop_equipment_flashlight_b_c
 prop_equipment_flashlight_c_c
-prop_equipment_floorAngle_c
 prop_equipment_geiger_c
 prop_equipment_glasses_c
 prop_equipment_goldMedallion_c
 prop_equipment_hazmat_c
-prop_equipment_headphones_c
 prop_equipment_jetpack_c
 prop_equipment_krampushat_c
 prop_equipment_limbprotection_c
@@ -460,7 +452,6 @@ prop_food_cookie1_c
 prop_food_croissant_c
 prop_food_funnyshroom_c
 prop_food_hotdog_c
-prop_food_longtrianglechocolate_c
 prop_food_mre_c
 prop_food_mreInfested_big_c
 prop_food_mreInfested_med_c
@@ -475,8 +466,8 @@ prop_food_poison_c
 prop_food_poison_burger_c
 prop_food_poison_chocobar_c
 prop_food_poison_cookie1_c
-prop_food_poison_longtrianglechocolate_c
 prop_food_poison_shrimp_c
+prop_food_poison_toblerone_c
 prop_food_potato_c
 prop_food_potatoCooked_c
 prop_food_potatoCooked_h_c
@@ -496,9 +487,9 @@ prop_food_soap_c
 prop_food_spng_c
 prop_food_superdeathShroom_c
 prop_food_taco_c
+prop_food_toblerone_c
 prop_fork_c
 prop_fossCrys_c
-prop_freezerBurntFood_c
 prop_fridge_c
 prop_fridgeDoor_c
 prop_fridgeDoor2_c
@@ -516,7 +507,6 @@ prop_funGun_igetis_c
 prop_funGun_jumpershotgun_c
 prop_funGun_kavotia_c
 prop_funGun_kill_c
-prop_funGun_kill_Child_c
 prop_funGun_mc_c
 prop_funGun_minigun_c
 prop_funGun_minigun_mc_c
@@ -614,12 +604,6 @@ prop_hose_grab_c
 prop_igp_c
 prop_impostor_c
 prop_inator_c
-prop_inventoryContainer_atv_c
-prop_inventoryContainer_drone_c
-prop_inventoryContainer_player_c
-prop_ironIngot_c
-prop_ironOre_c
-prop_ironVein_c
 prop_jacko_c
 prop_jar_alc_c
 prop_jar_honey_c
@@ -636,7 +620,6 @@ prop_kerfurOmega_3_c
 prop_kerfurOmega_ab_c
 prop_kerfurOmega_alien_c
 prop_kerfurOmega_arg_c
-prop_kerfurOmega_asmodena_c
 prop_kerfurOmega_bonerman_c
 prop_kerfurOmega_col_c
 prop_kerfurOmega_col_gamer_c
@@ -703,7 +686,6 @@ prop_medkit_s_c
 prop_medkit_xs_c
 prop_metalTable_c
 prop_metalTable2_c
-prop_micRepeater_c
 prop_microwave_c
 prop_microwaveDoor_c
 prop_minecart_c
@@ -749,17 +731,12 @@ prop_notebook_paper_fp_c
 prop_notebook_paper_u_c
 prop_notebook_uneditable_c
 prop_obelisk_c
-prop_officeCubicleWall_c
-prop_officeCubicleWall_cornerL_c
-prop_officeCubicleWall_cornerR_c
-prop_officeCubicleWall_straight_c
 prop_officetape_c
 prop_oilcan_c
 prop_openContainer_c
 prop_openContainer_bowl_L_c
 prop_openContainer_bowl_M_c
 prop_openContainer_bowl_S_c
-prop_openContainer_easterbasket_c
 prop_openContainer_ffWdL_c
 prop_openContainer_ffWdLS_c
 prop_openContainer_fridgeshelf1_c
@@ -769,7 +746,6 @@ prop_openContainer_plate_L_c
 prop_openContainer_plate_S_c
 prop_openContainer_scrapbox_c
 prop_openContainer_wastebasket_c
-prop_paddle_c
 prop_padlock_c
 prop_paper_c
 prop_paper_drawable_c
@@ -871,8 +847,6 @@ prop_pot_s_flower_6_c
 prop_pot_s_flower_7_c
 prop_pot_s_flower_8_c
 prop_powertool_c
-prop_pryablePlank_c
-prop_pryablePlank_edgesOnly_c
 prop_puffballMature_c
 prop_pulsar_c
 prop_pumpkinpie_c
@@ -902,7 +876,6 @@ prop_rifle_c
 prop_rifleComet_c
 prop_ritualKnife_c
 prop_roachRepel_c
-prop_roadbarrier_c
 prop_rock_c
 prop_rocket_c
 prop_rollingpin_c
@@ -1061,6 +1034,7 @@ prop_transformerUpgrade_c
 prop_treasureChest_c
 prop_treasureKey_c
 prop_tunnelRock_c
+prop_tv_c
 prop_tv2_c
 prop_tv2_erie_c
 prop_tv2_floor_c
@@ -1068,7 +1042,6 @@ prop_tv2_floor1_c
 prop_tv2_kerfur_c
 prop_tvSpawner_c
 prop_tv_Child_c
-prop_tv_OBSOLETE_c
 prop_tv_plasma_c
 prop_tvremote_c
 prop_tvremote_super_c
@@ -1111,12 +1084,10 @@ prop_wAlien1_c
 prop_wAlien2_c
 prop_wMannequin_c
 prop_wallAttachable_c
-prop_wallAttachable_pryable_c
 prop_wallMedkitBox_c
 prop_wallShelf_c
 prop_wallbuilder_c
 prop_wallbuilder_Child_c
-prop_wallbuilder_water_c
 prop_wallclock_c
 prop_wallfixer_c
 prop_wallfixer_Child_c
@@ -1186,10 +1157,6 @@ prop_wireComponent_turbine_c
 prop_wireComponent_wireless_c
 prop_wireSpark_c
 prop_wirebattery_c
-prop_woodentable_L_c
-prop_woodentable_M_c
-prop_woodentable_S_c
-prop_woodentable_garden_c
 prop_workbench_c
 prop_workbench_cuttingboard_c
 prop_workbench_portable_c

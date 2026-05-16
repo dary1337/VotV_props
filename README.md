@@ -1,4 +1,4 @@
-# Voices of the void 0.9.0d props and commands
+# Voices of the void 0.9.0m props and commands
 
 # DISCLAIMER
 
@@ -64,7 +64,8 @@ Relaunch the game and try again
 
 ### [Commands list](https://github.com/dary1337/VotV_props/blob/main/Commands.md)
 
-### [New props from my latest update 0.8.2c => 0.9.0d](https://github.com/dary1337/VotV_props?tab=readme-ov-file#new-props-from-my-latest-update-082c--090d-1)
+### [New props from my latest update version (0.9.0d => 0.9.0m)](https://github.com/dary1337/VotV_props?tab=readme-ov-file#new-props-from-my-latest-update-090d--090m-1)
+### [0.8.2c => 0.9.0d](https://github.com/dary1337/VotV_props?tab=readme-ov-file#082c--090d-1)
 ### [0.8.2b => 0.8.2c](https://github.com/dary1337/VotV_props?tab=readme-ov-file#082b--082c-1)
 ### [0.8.2 => 0.8.2b](https://github.com/dary1337/VotV_props?tab=readme-ov-file#082--082b-1)
 ### [0.8 => 0.8.2](https://github.com/dary1337/VotV_props?tab=readme-ov-file#08--082-1)
@@ -75,7 +76,50 @@ Relaunch the game and try again
 
 ### [Props by versions](https://github.com/dary1337/VotV_props/tree/main/archive/props)
 
-#  New props from my latest update (0.8.2c => 0.9.0d)
+# New props from my latest update (0.9.0d => 0.9.0m)
+
+`prop_bunkbed_broken_c`  
+`prop_ceilingstarsspawn_c`  
+`prop_cookingFood_cookiedough_c`  
+`prop_dummy_c`  
+`prop_easteregg_c`  
+`prop_easteregg_bunnyOwn_c`  
+`prop_emptyFillablePot_c`  
+`prop_emptyFillablePot_small_c`  
+`prop_emptyFillablePot_small_holyfuck_c`  
+`prop_equipment_bunnyears_c`  
+`prop_equipment_floorAngle_c`  
+`prop_equipment_headphones_c`  
+`prop_food_longtrianglechocolate_c`  
+`prop_food_poison_longtrianglechocolate_c`  
+`prop_freezerBurntFood_c`  
+`prop_funGun_kill_Child_c`  
+`prop_inventoryContainer_atv_c`  
+`prop_inventoryContainer_drone_c`  
+`prop_inventoryContainer_player_c`  
+`prop_ironIngot_c`  
+`prop_ironOre_c`  
+`prop_ironVein_c`  
+`prop_kerfurOmega_asmodena_c`  
+`prop_micRepeater_c`  
+`prop_officeCubicleWall_c`  
+`prop_officeCubicleWall_cornerL_c`  
+`prop_officeCubicleWall_cornerR_c`  
+`prop_officeCubicleWall_straight_c`  
+`prop_openContainer_easterbasket_c`  
+`prop_paddle_c`  
+`prop_pryablePlank_c`  
+`prop_pryablePlank_edgesOnly_c`  
+`prop_roadbarrier_c`  
+`prop_tv_OBSOLETE_c`  
+`prop_wallAttachable_pryable_c`  
+`prop_wallbuilder_water_c`  
+`prop_woodentable_L_c`  
+`prop_woodentable_M_c`  
+`prop_woodentable_S_c`  
+`prop_woodentable_garden_c`  
+
+# 0.8.2c => 0.9.0d
 `prop_aimodule_c`  
 `prop_asologoPiece_c`  
 `prop_atvUpgrade_aircontrol_c`  
@@ -751,10 +795,6 @@ model changer
 `prop_wAlien1_c`  
 `prop_wAlien2_c`
 
-# ender chest
-
-`prop_container_player_c`
-
 # real fun of the game
 
 `prop_gascan_funny_c` really funny
@@ -819,7 +859,6 @@ model changer
 `prop_kerfurOmega_erie_c`  
 `prop_kerfurOmega_erie1_c`  
 `prop_kerfurOmega_erieV4_c`  
-`prop_kerfurOmega_erieV4_1_c` recommended one  
 `prop_kerfurOmega_erieV4_2_c`  
 `prop_kerfurOmega_furfur_c`  
 `prop_kerfurOmega_igetis_c`  
@@ -836,7 +875,6 @@ model changer
 
 # Tvs
 
-`prop_tv_c`  
 `prop_tv2_c`  
 `prop_tv2_erie_c` - cool physics  
 `prop_tv2_floor_c`  
@@ -919,3 +957,4 @@ glowsticks
 - ### [0.8.2](https://github.com/dary1337/VotV_props/tree/39a7241afd7dd84d1692a2355ef7940496e204c9)
 - ### [0.8.2b](https://github.com/dary1337/VotV_props/tree/38f9c9ecb4f210fe0a9806fecb9493c3bed6ac2e)
 - ### [0.8.2c](https://github.com/dary1337/VotV_props/tree/891a29e7b56c70712ea66c268301ed0e80fde8a9)
+- ### [0.9.0d](https://github.com/dary1337/VotV_props/tree/7c3e54cfed274d4fe8177c987e3bee541443eeb9)

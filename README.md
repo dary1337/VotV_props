@@ -1,4 +1,10 @@
-# Voices of the void 0.9.0m props and commands
+# Voices of the Void — Full Props List & Console Summon Commands [0.9.0m]
+
+### 🌍 Language: **English** · [Русский](README.ru.md)
+
+list of every prop you can `summon` in **Voices of the Void (VotV)** by mrdrnose — guns, plushies, equipment, vehicles, all that stuff. updated for **0.9.0m**, with changelogs going back to 0.8.
+
+if u ever wondered how to spawn props in VotV, what the full list of summon commands is, or which prop id is that funny gun you saw on stream — u're in the right place.
 
 # DISCLAIMER
 
@@ -9,33 +15,36 @@ Don't forget to support the developer!
 # THIS REPOSITORY HAS SPOILERS SCROLL DOWN AT OWN YOUR RISK
 
 Yes it is
-                  
-                                                                                        
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
-                                                                                      
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 if u still there, kk
 
@@ -46,7 +55,7 @@ if u still there, kk
 -   Wait for the menu buttons
 -   Launch the UUU Unlocker
 -   Inject DLL.
--   Once it's done, you’ll see a message: `Console is activated. Press ~ to open the console`
+-   Once it's done, you'll see a message: `Console is activated. Press ~ to open the console`
 -   Load the save
 -   Open the console and use command `summon`. For example: `summon prop_physgun_c`
 
@@ -57,6 +66,14 @@ Yes
 ## I didnt see a message about the console
 
 Relaunch the game and try again
+
+## Is this a mod ?
+
+Nope, just docs. The tool is [UUU](https://framedsc.com/GeneralGuides/universal_ue4_consoleunlocker.htm)
+
+## Where to get the game ?
+
+[mrdrnose.itch.io/votv](https://mrdrnose.itch.io/votv)
 
 # Navigation
 
@@ -70,7 +87,7 @@ Relaunch the game and try again
 ### [0.8.2 => 0.8.2b](https://github.com/dary1337/VotV_props?tab=readme-ov-file#082--082b-1)
 ### [0.8 => 0.8.2](https://github.com/dary1337/VotV_props?tab=readme-ov-file#08--082-1)
 
-### [Intersting props](https://github.com/dary1337/VotV_props?tab=readme-ov-file#intersting-props-1)
+### [Interesting props](https://github.com/dary1337/VotV_props?tab=readme-ov-file#interesting-props-1)
 
 # Archive
 
@@ -569,7 +586,7 @@ Relaunch the game and try again
 `prop_xmaslights_nolight_c`  
 `prop_xmastree_c`  
 
-# Intersting props
+# Interesting props
 
 ### argemia plushes
 
